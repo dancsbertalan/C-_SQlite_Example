@@ -1,0 +1,21 @@
+BEGIN TRANSACTION;
+CREATE TABLE `Varos` (
+	`Iranyitoszam`	INTEGER NOT NULL,
+	`Nev`	TEXT NOT NULL,
+	PRIMARY KEY(`Iranyitoszam`)
+);
+
+INSERT INTO `Varos` VALUES (1111,'Harmadik');
+INSERT INTO `Varos` VALUES (2222,'Masodik');
+INSERT INTO `Varos` VALUES (3311,'Elso');
+CREATE TABLE "Felhasznalo" (
+	`ID`	INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+	`Nev`	TEXT NOT NULL,
+	`Lakhely`	INTEGER NOT NULL,
+	FOREIGN KEY(`Lakhely`) REFERENCES `Varos`(`Iranyitoszam`)
+);
+
+INSERT INTO `Felhasznalo` VALUES (1,'Valaki Elso',2222);
+INSERT INTO `Felhasznalo` VALUES (2,'Valaki Masodik',1111);
+INSERT INTO `Felhasznalo` VALUES (3,'Valaki Harmdik',3311);
+COMMIT;
