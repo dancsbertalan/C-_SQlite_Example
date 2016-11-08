@@ -4,3 +4,5 @@ Ha az végzett akkor a neki szükséges .DLL-eket berántja a projektnél a "ref
   - System.Data.SQlite
   - System.Data.SQlite.EF6
   - System.Data.SQite.Linq
+
+Innentől kezdve minden követhető a .sln-ben.
