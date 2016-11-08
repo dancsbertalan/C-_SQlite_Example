@@ -1,1 +1,16 @@
 E:\Repok\C#_SQlite_Example\Forraskod\SQlite_Example\SQlite_Example\bin\Debug\SQlite_Example.exe.config
+E:\Repok\C#_SQlite_Example\Forraskod\SQlite_Example\SQlite_Example\bin\Debug\SQlite_Example.exe
+E:\Repok\C#_SQlite_Example\Forraskod\SQlite_Example\SQlite_Example\bin\Debug\SQlite_Example.pdb
+E:\Repok\C#_SQlite_Example\Forraskod\SQlite_Example\SQlite_Example\bin\Debug\EntityFramework.dll
+E:\Repok\C#_SQlite_Example\Forraskod\SQlite_Example\SQlite_Example\bin\Debug\EntityFramework.SqlServer.dll
+E:\Repok\C#_SQlite_Example\Forraskod\SQlite_Example\SQlite_Example\bin\Debug\System.Data.SQLite.dll
+E:\Repok\C#_SQlite_Example\Forraskod\SQlite_Example\SQlite_Example\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Repok\C#_SQlite_Example\Forraskod\SQlite_Example\SQlite_Example\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Repok\C#_SQlite_Example\Forraskod\SQlite_Example\SQlite_Example\bin\Debug\EntityFramework.xml
+E:\Repok\C#_SQlite_Example\Forraskod\SQlite_Example\SQlite_Example\bin\Debug\EntityFramework.SqlServer.xml
+E:\Repok\C#_SQlite_Example\Forraskod\SQlite_Example\SQlite_Example\bin\Debug\System.Data.SQLite.xml
+E:\Repok\C#_SQlite_Example\Forraskod\SQlite_Example\SQlite_Example\obj\Debug\SQlite_Example.csprojResolveAssemblyReference.cache
+E:\Repok\C#_SQlite_Example\Forraskod\SQlite_Example\SQlite_Example\obj\Debug\SQlite_Example.Properties.Resources.resources
+E:\Repok\C#_SQlite_Example\Forraskod\SQlite_Example\SQlite_Example\obj\Debug\SQlite_Example.csproj.GenerateResource.Cache
+E:\Repok\C#_SQlite_Example\Forraskod\SQlite_Example\SQlite_Example\obj\Debug\SQlite_Example.exe
+E:\Repok\C#_SQlite_Example\Forraskod\SQlite_Example\SQlite_Example\obj\Debug\SQlite_Example.pdb
